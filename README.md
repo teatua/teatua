@@ -4,6 +4,8 @@
 
 <h2>:page_with_curl: Certifications:</h2>
 
+- Diploma in Cyber Security - Unitec Institute of Technology - Auckland
+
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
