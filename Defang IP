@@ -1,0 +1,7 @@
+#Defang IP string using Python built-in function 'replace'
+
+def defang(ip :str) -> str:
+  return ip.replace('.', '[.]')
+
+testip = '192.168.0.1'
+print('defanged:', defang(testip))
